@@ -269,8 +269,8 @@ const libro2: Libro = {
 
 const usuario1: Usuario = {
     codigo: "U1",
-    nombreCompleto: "Andy Ortega",
-    correo: "andy@gmail.com",
+    nombreCompleto: "Erick Tepan",
+    correo: "erick@gmail.com",
     carrera: "Ingeniería de Software",
     telefono: "0999999999"
 };
